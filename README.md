@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Alvaro Diaz-Ruelas (@IvaroEkel)
-- 👀 interested in Science, Arts, Technology, Gaming.
+
 - 🌱 currently learning Combinatorial Stochastic Processes
 - 💞️ looking to collaborate on Machine Learning and Data Analysis
+- 👀 interested in Science, Arts, Technology, Gaming.
 - 📫 How to reach me diaz.ruelas@cs.uni-leipzig.de
 
 <!---
